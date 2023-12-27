@@ -1,2 +1,2 @@
 # tela_login
-Uma tela de login com HTML &amp; CSS.
+Fix uma tela de SignIn e SignUp responsivo, utilizando HTML, CSS e interações com o JavaScript.
